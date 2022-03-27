@@ -18,7 +18,7 @@ section{
     background:var(--fondo);
     position: relative;
     box-shadow: 
-    0 19px 38px rgb(0,0,0,0.5),
+    0 12px 38px rgb(0,0,0,0.5),
     0 12px 14px rgba(21, 53, 160, 0.5);
     overflow:hidden;
 }
